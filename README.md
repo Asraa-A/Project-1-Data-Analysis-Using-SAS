@@ -19,5 +19,5 @@ The variables in the dataset are given in the following table:
 |TotalKg    |          Assume continuous |                The total amount for a competitor’s combined squat, bench and deadlift in kilograms|
 |Wilks   |             Assume continuous |                 Wilks score (strength adjusted for body mass)|
 |Winner |              Categorical (2 levels)   |         Whether a competitor won their last event:Y = Yes, N = No|
-|Displacement    |     Assume continuous   |             |Distance (cm) during an additional challenge that a competitor was able to push a weighted object from its starting location                                                              (can be positive or negative depending which direction it was pushed)|
+|Displacement    |     Assume continuous   |             Distance (cm) during an additional challenge that a competitor was able to push a weighted object from its starting location                                                              (can be positive or negative depending which direction it was pushed)|
 |Group  |              Categorical (10 levels)  |        Which group of judges a competitor was assigned (ranges from A-J)|
